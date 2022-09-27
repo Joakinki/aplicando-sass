@@ -1,0 +1,25 @@
+footer{ 
+    background-color: wheat;
+    display: flex;
+    align-items: center ;
+    justify-content: space-around;
+    height: 20vh;
+    width: 100vw;
+    ul{ 
+        li{display: block;
+            h5{text-decoration: none;
+                color: black;}
+            a{text-decoration: none;
+                color: black;}
+        }
+    }
+    nav{
+        ul{
+            li{
+                a{
+                    button{ background-color: aqua;}
+                }
+            }
+        }
+    }
+}

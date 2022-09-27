@@ -1,0 +1,25 @@
+header{
+    background-color: wheat;
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+    height: 20vh;
+    width: 100vw;
+    div{ justify-content: space-around;
+        nav{
+            ul{ text-align: center;
+                li{align-items: center;
+                    background-color: aqua;
+                    margin: 5px;
+                    display: inline-block;
+                    border-bottom: 1px solid white;
+                    a{text-decoration: none;
+                        color: black;
+                        border-bottom-style: dotted;
+
+                    }
+                }
+                }
+            }
+        }
+    }
